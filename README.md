@@ -25,13 +25,13 @@ A simple Python script to convert Markdown (`.md`) files to HTML (`.html`) with 
 
 ### File Selection
 
-![File Selection Dialog](./1.png)
+![File Selection Dialog](./Images/1.png)
 
 ### Conversion Process
 
-## ![Conversion Process](./2.png)
+## ![Conversion Process](./Images/2.png)
 
-## ![Conversion Process](./4.png)
+## ![Conversion Process](./Images/4.png)
 
 ## 🚀 Usage
 
