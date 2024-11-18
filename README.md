@@ -40,8 +40,8 @@ A simple Python script to convert Markdown (`.md`) files to HTML (`.html`) with 
 1. **Clone or Download the Repository**:
 
    ```bash
-   git clone https://github.com/tobechanged/markdown-to-html.git
-   cd markdown-to-html
+   git clone https://github.com/Janardan-pathak/HtmlToMarkdown.git
+   cd  HtmlToMarkdown/bin
    ```
 
 2. **Install Required Modules**:
